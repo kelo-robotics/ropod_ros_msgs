@@ -3,8 +3,8 @@ Action[] robot_actions
 string load_type
 string load_id
 string[] team_robot_ids
-float64 start_time
-float64 finish_time
+string start_time
+string finish_time
 float64 earliest_start_time
 float64 latest_start_time
 float64 estimated_duration
